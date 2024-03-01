@@ -8,7 +8,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/runtimeterrorist/mailhunter.svg)](https://github.com/runtimeterrorist/mailhunter/commits/master)
 
 <p align="center">
-<img src="logo.png"/>
+<img src="images/logo.png"/>
 </p>
 
 **MailHunter** is a simple and robust OSINT tool designed to provide an extra layer of protection by monitoring the digital safety of your workforce.
@@ -19,6 +19,13 @@
 - attempts to find leaked credentials using different available sources
 - export data
 
+<h3> Usage samples</h3>
+<p>
+<img src="images/1.png"/>
+</p>
+<p>
+<img src="images/2.png"/>
+</p>
 <h3>Legal disclaimer:</h3>
 
 Developers assume no liability and are not responsible for any misuse or damage caused by this program.
