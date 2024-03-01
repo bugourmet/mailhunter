@@ -17,9 +17,7 @@
 
 - scrapes company email addresses
 - attempts to find leaked credentials using different available sources
-- export data to csv
-
-....to be continued
+- export data
 
 <h3>Legal disclaimer:</h3>
 
