@@ -16,9 +16,9 @@
 <h3> Key Features</h3>
 
 - scrapes company email addresses
-- attempts to find leaked credentials using different available sources
 - export data
 
+TODO : attempt to find leaked credentials using different available sources and save to result
 <h3> Usage samples</h3>
 <p>
 <img src="images/1.png"/>
